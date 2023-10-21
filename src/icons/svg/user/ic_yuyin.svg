@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1"
+     width="71.34375" height="49.7958984375" viewBox="0 0 71.34375 49.7958984375">
+    <g>
+        <rect x="0" y="0" width="71.34375" height="49.7958984375" rx="0" fill="#EFEFEF" fill-opacity="1"/>
+        <g>
+            <rect x="57.75390625" y="19.240234375" width="13.588688850402832" height="12.44900894165039"
+                  rx="6.224504470825195" fill="#FFFFFF" fill-opacity="1"/>
+        </g>
+        <g>
+            <rect x="0" y="19.240234375" width="13.588688850402832" height="12.44900894165039" rx="6.224504470825195"
+                  fill="#FFFFFF" fill-opacity="1"/>
+        </g>
+        <g>
+            <rect x="31.70703125" y="0" width="7.9267354011535645" height="49.79603576660156" rx="3.9633677005767822"
+                  fill="#FFFFFF" fill-opacity="1"/>
+        </g>
+        <g>
+            <rect x="45.296875" y="10.185546875" width="7.9267354011535645" height="30.556657791137695"
+                  rx="3.9633677005767822" fill="#FFFFFF" fill-opacity="1"/>
+        </g>
+        <g>
+            <rect x="18.1171875" y="10.185546875" width="7.9267354011535645" height="30.556657791137695"
+                  rx="3.9633677005767822" fill="#FFFFFF" fill-opacity="1"/>
+        </g>
+    </g>
+</svg>

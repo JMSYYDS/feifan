@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="130"
+     height="130" viewBox="0 0 130 130">
+    <g>
+        <g>
+            <rect x="39.34765625" y="50.24444770812988" width="51.302734375" height="39.62474060058594" rx="5.5"
+                  fill-opacity="0" stroke-opacity="1" stroke="#FFFFFF" fill="none" stroke-width="5"/>
+        </g>
+        <g>
+            <rect x="50.33984375" y="39.630859375" width="29.447265625" height="6.085193634033203" rx="3" fill="#FFFFFF"
+                  fill-opacity="1"/>
+        </g>
+        <g>
+            <ellipse cx="65" cy="70.05681705474854" rx="11" ry="11.000000953674316" fill-opacity="0" stroke-opacity="1"
+                     stroke="#FFFFFF" fill="none" stroke-width="6"/>
+        </g>
+        <g>
+            <ellipse cx="81.78515625" cy="59.62170386314392" rx="4" ry="3.999999761581421" fill="#FFFFFF"
+                     fill-opacity="1"/>
+        </g>
+        <g style="opacity:0.5;">
+            <rect x="0" y="0.00002288818359375" width="130" height="130" rx="32" fill="#BABFC4"
+                  fill-opacity="0.800000011920929"/>
+        </g>
+    </g>
+</svg>
